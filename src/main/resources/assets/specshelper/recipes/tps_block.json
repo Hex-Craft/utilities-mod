@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "ddd",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "d":
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result":
+  {
+    "item": "specshelper:tps_block",
+    "data": 0
+  }
+}

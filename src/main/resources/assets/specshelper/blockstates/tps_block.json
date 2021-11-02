@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "specshelper:tps_block" }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "This mod logg all specifications stuff to console to make debug for Hexagon easier.",
+        "pack_format": 3
+    }
+}
